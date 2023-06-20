@@ -1,2 +1,23 @@
 
 /* Your CSS Code here. */
+th{
+	background-color : #C0504D;
+	text-align:center;
+	color:white;
+}
+td{
+  width: 1%;
+  text-align: right; 
+}
+.td1{
+	color:white;
+}
+.td2{
+	text-align:left;
+}
+.td3{
+	text-align:left;
+}
+.td4{
+	text-align:left;
+}
